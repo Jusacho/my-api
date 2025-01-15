@@ -1,4 +1,4 @@
-const api = "http://192.168.9.187/" // api url
+const api = "https://my-api-sc94.onrender.com" // api url
 const pseudo = "base31" // pseudo api (pseudo = webhook config.json)
 const exe = "Discreen" // name exe
 
